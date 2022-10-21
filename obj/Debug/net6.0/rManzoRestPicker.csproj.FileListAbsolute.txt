@@ -1,0 +1,15 @@
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\bin\Debug\net6.0\rManzoRestPicker.exe
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\bin\Debug\net6.0\rManzoRestPicker.deps.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\bin\Debug\net6.0\rManzoRestPicker.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\bin\Debug\net6.0\rManzoRestPicker.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\bin\Debug\net6.0\rManzoRestPicker.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\refint\rManzoRestPicker.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\rManzoRestPicker.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\rManzoRestPicker\obj\Debug\net6.0\ref\rManzoRestPicker.dll
