@@ -23,7 +23,7 @@ while (playover)
     Console.WriteLine("Enter 1 for Breakfast, 2 for Lunch, 3 for Dinner, or 4 for Dessert!");
     String userInput = Console.ReadLine();
 
-    int swts = rand.Next(1, 10);
+    int swts = rand.Next(1, 8);
 
 
     int dine = rand.Next(1, 10);
